@@ -21,5 +21,8 @@
     "cycling",
     "swimming"
   ],
-  "privacyPolicyUrl": "https://www.runningworkout.fr/privacy-policy?lang=en"
+  "privacyPolicyUrl": "https://www.runningworkout.fr/privacy-policy?lang=en",
+  "documentationUrl": "https://www.runningworkout.fr/connecter-garmin-a-claude?lang=en",
+  "supportUrl": "https://www.runningworkout.fr/support?lang=en",
+  "termsOfServiceUrl": "https://www.runningworkout.fr/legal?lang=en"
 }
