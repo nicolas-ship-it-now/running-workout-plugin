@@ -1,0 +1,15 @@
+{
+  "name": "running-workout",
+  "description": "Running Workout: a running coach for Garmin athletes, for Claude.",
+  "owner": {
+    "name": "Running Workout",
+    "email": "nicolas@runningworkout.fr"
+  },
+  "plugins": [
+    {
+      "name": "running-workout",
+      "source": "./",
+      "description": "Running coach for Garmin athletes. Connects Claude to Running Workout, which reads your Garmin activities and training profile, tracks race goals and training plans, and builds structured running, cycling and swimming workouts that it schedules on your Garmin Connect calendar."
+    }
+  ]
+}

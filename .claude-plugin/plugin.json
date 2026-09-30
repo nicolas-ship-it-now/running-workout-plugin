@@ -1,0 +1,24 @@
+{
+  "name": "running-workout",
+  "displayName": "Running Workout",
+  "version": "1.0.0",
+  "description": "Running coach for Garmin athletes. Connects Claude to Running Workout, which reads your Garmin activities and training profile, tracks race goals and training plans, and builds structured running, cycling and swimming workouts that it schedules on your Garmin Connect calendar.",
+  "author": {
+    "name": "Running Workout",
+    "email": "nicolas@runningworkout.fr",
+    "url": "https://www.runningworkout.fr/?lang=en"
+  },
+  "homepage": "https://www.runningworkout.fr/?lang=en",
+  "repository": "https://github.com/nicolas-ship-it-now/running-workout-plugin",
+  "license": "MIT",
+  "keywords": [
+    "running",
+    "training plan",
+    "garmin",
+    "workout",
+    "marathon",
+    "coach",
+    "cycling",
+    "swimming"
+  ]
+}
